@@ -1,0 +1,62 @@
+body{
+    background:#e1f2ea;
+}
+h1{
+    font-family:"Mali";
+    text-align: center;
+    color:#c3cafb;
+    font-size:35px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+}
+h2{
+    font-family:"Open Sans Condensed";
+    text-align: center;
+    color:#ea9a85;
+    font-size:30px;
+}
+p{
+    font-family:"Open Sans Condensed";
+    text-align: center;
+    color:#a9a2ad;
+    font-size:22px;
+}
+h3{
+    font-family:"Ubuntu";
+    text-align: center;
+    color:#808080;
+    font-size:30px;
+}
+.a{
+    font-family:"Ubuntu";
+    color:#a9a2ad;
+    font-size:22px;
+   
+}
+h4{
+    font-family:"Poor Story", cursive;
+    text-align: center;
+    color:#f0f082;
+    font-size:30px;
+}
+.b{
+    font-family:"Poor Story", cursive;
+    text-align: center;
+    color:#a9a2ad;
+    font-size:22px;
+}
+h5{
+    font-family:"Indie Flower", cursive;
+    text-align: center;
+    color:#fb9696;
+    font-size:30px;
+}
+.c{
+    font-family:"Indie Flower", cursive;
+    color:#a9a2ad;
+    font-size:22px;
+}
